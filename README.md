@@ -1,5 +1,5 @@
 # TimberTrek Sparse Decision Tree Visualization
-# Under Guidance By Ritesh Chandra (IIIT Allahabad)
+
 
 ## Overview
 
