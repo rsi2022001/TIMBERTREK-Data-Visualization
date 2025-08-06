@@ -63,9 +63,5 @@ Each tree corresponds to a unique structure in the Rashomon set and highlights d
 ```bash
 pip install -r requirements.txt
 
-## 👥 Collaborators
-
-
-| [@rsi2018507](https://github.com/rsi2018507) | [@Himanshi0312](https://github.com/Himanshi0312) |
-| [@BDA Lab IIIT Allahabad India](https://github.com/BDA-IIITA) |
+@Himanshi0312
 
