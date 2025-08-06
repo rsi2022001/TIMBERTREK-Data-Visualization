@@ -25,7 +25,7 @@ This project presents an explainable AI framework using **sparse decision trees*
 
 ---
 
-## 🗂 Repository Structure
+##  Repository Structure
 
 | Path | Description |
 |------|-------------|
