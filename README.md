@@ -1,13 +1,13 @@
-# 🪵 TimberTrek: Interpretable Sparse Decision Tree Visualizations for NAFLD Prediction
+#  TimberTrek: Interpretable Sparse Decision Tree Visualizations for NAFLD Prediction
 ...
 
-## 🧭 Project Overview
+##  Project Overview
 
 This project presents an explainable AI framework using **sparse decision trees** trained with the **TIMBERTREK** library on a clinical dataset related to **Non-Alcoholic Fatty Liver Disease (NAFLD)**. We focus on **transparent model interpretation** through visualization of diverse trees from the **Rashomon set**—a collection of equally accurate yet structurally distinct decision trees.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Train sparse decision trees for **NAFLD classification**
 - Explore the **Rashomon set** for model diversity
@@ -16,16 +16,16 @@ This project presents an explainable AI framework using **sparse decision trees*
 
 ---
 
-## 📌 Key Features
+##  Key Features
 
-- ✅ **Sparse Tree Generation**: Efficiently produces hundreds of shallow trees using TreeFARMS.
-- 🌳 **Interpretable Visualizations**: Visualizes each tree with meaningful structure, feature splits, and decisions.
-- 🩺 **Clinical Relevance**: Operates on a real-world NAFLD dataset to support healthcare decision-making.
-- 📁 **Rashomon Set Analytics**: Stores diverse trees in JSON format with node/leaf/feature statistics for downstream analysis.
+- **Sparse Tree Generation**: Efficiently produces hundreds of shallow trees using TreeFARMS.
+- **Interpretable Visualizations**: Visualizes each tree with meaningful structure, feature splits, and decisions.
+- **Clinical Relevance**: Operates on a real-world NAFLD dataset to support healthcare decision-making.
+- **Rashomon Set Analytics**: Stores diverse trees in JSON format with node/leaf/feature statistics for downstream analysis.
 
 ---
 
-## 🗂️ Repository Structure
+## 🗂 Repository Structure
 
 | Path | Description |
 |------|-------------|
@@ -39,29 +39,19 @@ This project presents an explainable AI framework using **sparse decision trees*
 
 ---
 
-## 📊 Tree Visualization Samples
-
-<p align="center">
-  <img src="visualization/tm1.png" width="400"/>
-  <img src="visualization/tm6.png" width="400"/>
-  <img src="visualization/fulltree.png" width="800"/>
-</p>
-
-Each tree corresponds to a unique structure in the Rashomon set and highlights different feature combinations for classification.
-
----
-
-## ⚙️ Getting Started
-
-### 🛠️ Requirements
+###  Requirements
 - Python 3.8+
 - Jupyter Notebook
 - TIMBERTREK, TreeFARMS
 - Core libraries: `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `plotly`
 
-### 📦 Install Dependencies
+###  Install Dependencies
 ```bash
 pip install -r requirements.txt
 
-
+```
+## Contributors 
+  1. Sadhana Tiwari   (rsi2018507@iiita.ac.in)
+  2. Himanshi Singh   (prf.himanshi@iiita.ac.in)
+  3. Sonali Agarwal   (sonali@iiita.ac.in)
 
