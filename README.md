@@ -65,8 +65,7 @@ pip install -r requirements.txt
 
 ## 👥 Collaborators
 
-| | [<img src="https://github.com/janesmith.png" width="100">](https://github.com/Himanshi0312) |
-|:--:|:--:|
+
 | [@rsi2018507](https://github.com/rsi2018507) | [@Himanshi0312](https://github.com/Himanshi0312) |
 | [@BDA Lab IIIT Allahabad India](https://github.com/BDA-IIITA) |
 
